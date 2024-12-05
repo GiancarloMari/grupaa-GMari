@@ -1,6 +1,8 @@
 # grupaa-GMari
 https://github.com/GiancarloMari/grupaa-GMari
 
+Izmjena za readme.md
+
 SELECT biljka.naziv
 FROM biljka
 JOIN vrsta ON biljka.vrsta = vrsta.id
